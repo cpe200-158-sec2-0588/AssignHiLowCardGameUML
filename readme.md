@@ -5,4 +5,4 @@
 
  Student ID: 570610XXX
  
- ![uml-diagrams](http://www.uml-diagrams.org/examples/class-diagram-example-hasp-licensing-domain.png)
+ ![uml-diagrams](https://raw.githubusercontent.com/cpe200-158-sec2-0588/AssignHiLowCardGameUML/master/HiLowCardGameUML.png)
