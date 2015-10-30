@@ -3,6 +3,6 @@
 ###### Note that you can edit readme file online, or use anything as you can.
 ###### Due date: 10/30/2015 17:00:00 PM
 
- Student ID: 570610XXX
+ Student ID: 570610588
  
  ![uml-diagrams](https://raw.githubusercontent.com/cpe200-158-sec2-0588/AssignHiLowCardGameUML/master/HiLowCardGameUML.png)
